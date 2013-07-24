@@ -35,7 +35,7 @@ We'll build user signup with AJAX together.
 5. Create an ExercisesController. On exercises#index, show all the exercises for a logged-in user.
 6. Don't neglect the front-end: Add a nav item for Exercises.
 7. Add a 'New Exercise' button and implement a feature to add exercises using AJAX.
-8. Add a dropdown menu that shows of all the activities (meaning types of exercises) that the logged-in user has performed.
+8. Add a dropdown menu (HTML `select` tag) that shows of all the activities (meaning types of exercises) that the logged-in user has performed.
 
 (The dropdown menu you're adding shouldn't do anything yet. It should just exist.)
 
