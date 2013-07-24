@@ -31,7 +31,7 @@ We'll build user signup with AJAX together.
 
 **Unpause**
 
-4. Build Login/Logout with AJAX.
+4. Build Login with AJAX.
 5. Create an ExercisesController. On exercises#index, show all the exercises for a logged-in user.
 6. Don't neglect the front-end: Add a nav item for Exercises.
 7. Add a 'New Exercise' button and implement a feature to add exercises using AJAX.
